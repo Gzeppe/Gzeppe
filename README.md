@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gzeppe
-- 👀 I’m interested in React
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on a React Project
+- 👀 I’m interested in becoming a better developer
+- 🌱 I’m currently learning ASP .net Framework
 - 📫 How to reach me: discord Joe_Meng#3011
 
 <!---
