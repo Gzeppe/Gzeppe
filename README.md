@@ -1,5 +1,5 @@
 - Hi, my name is Giuseppe 
-- My current interest is learning laravel and workging on building a ecommerce website using this technology using php and MySQL
+- My current interest is learning laravel and working on building a ecommerce website using this technology using php and MySQL
 - The learning never ends
 
 
