@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gzeppe
-- 👀 I’m interested in becoming a better developer
-- 🌱 I’m currently learning ASP .net Framework
-- 📫 How to reach me: discord Joe_Meng#3011
+- Hi, my name is Giuseppe 
+- My current interest is learning laravel and workging on building a ecommerce website using this technology using php and MySQL
+- The learning never ends
+
 
 <!---
 Gzeppe/Gzeppe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
