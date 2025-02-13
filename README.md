@@ -1,6 +1,10 @@
-- Hi, my name is Giuseppe 
-- My current interest is learning laravel and working on building a ecommerce website using this technology using php and MySQL
-- The learning never ends
+- Hi, my name is Giuseppe and I'm going down the rabbit hole of a coding journey
+- Experience with html css php javascript
+- completed a react search deck tutorial that searched/filtered id cards on the screen in life time utilizing ajax
+- completed building a pong game in javascript
+- completed other random tutorials
+- currently taking the dive into python
+- my next project is building an ecommerse website that uses aws and laravel 
 
 
 <!---
