@@ -1,14 +1,12 @@
-Hello, my name is Giuseppe and I'm going down the rabbit hole of a never ending coding journey!
+👋 Hi, I’m Giuseppe!
+I’m a passionate self-taught developer who loves turning curiosity into code. I enjoy building clean, functional projects—even when they’re small—and I aim to achieve quality in my creations.
 
-- Experience with html css php javascript
-- completed a react search deck tutorial that searched/filtered id cards on the screen in real time utilizing ajax
-- completed building a pong game in javascript
-- completed other random coding tutorials
-- currently taking the dive into python
-- my next project is building an ecommerse website that uses aws and laravel 
+Here’s a snapshot of what I’ve been working on:
 
+🧠 Majority of my experience is ultilizing HTML, CSS, JavaScript, and a growing love for Python
 
-<!---
-Gzeppe/Gzeppe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Currently leveling up my back-end development by diving deeper into Python, implimenting the Django framework, and deploying the project on AWS
+
+🛒 Next up: Planning on building an eCommerce website using Laravel and deploying it with AWS
+
+Whether it’s a small tutorial or a bigger challenge, I aim for quality and growth in everything I build.
