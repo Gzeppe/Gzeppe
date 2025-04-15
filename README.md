@@ -1,5 +1,5 @@
 👋 Hi, I’m Giuseppe!
-I’m a passionate self-taught developer who loves turning curiosity into code. I enjoy building clean, functional projects—even when they’re small—and I aim to achieve quality in my creations.
+I’m a passionate self-taught developer who loves turning curiosity into code.
 
 Here’s a snapshot of what I’ve been working on:
 
