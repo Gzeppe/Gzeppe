@@ -1,6 +1,6 @@
 Hi, I’m Giuseppe 👋
 
-I’m a software developer with a background in application configuration and backend-focused full-stack development. I build practical, data-driven applications and enjoy turning ideas into working systems that reflect real-world use cases.
+I’m a software developer with a background in application configuration and full-stack development. I build practical, data-driven applications and enjoy turning ideas into working systems that reflect real-world use cases.
 
 ### What I Work With
 - Python & Django (models, views, ORM, authentication)
