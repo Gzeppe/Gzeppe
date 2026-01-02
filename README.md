@@ -1,9 +1,22 @@
-Hi, I’m Giuseppe!
+Hi, I’m Giuseppe 👋
 
-I’m a self-taught developer who enjoys learning and turning curiosity into code.
+I’m a software developer with a background in application configuration and full stack development. I enjoy turning ideas into working systems and building practical applications that reflect real-world use cases.
 
-Here’s a snapshot of what I’ve been working on:
+### What I Work With
+- Python & Django (models, views, ORM, authentication)
+- SQL (MySQL / PostgreSQL)
+- HTML, CSS, JavaScript
+- Git & GitHub
+- AWS (deployment, environment configuration)
 
-My experience is currently ultilizing HTML, CSS, JavaScript, and actively leveling up my Python skills.
-My interests is in leveling up my back-end development skills by diving deeper into Python, implementing the Django framework, and deploying projects on AWS using postgres.
-Eager to contribute to a team where clean code, continuous learning, and product impact are valued.
+### What I’m Focused On
+I’m especially interested in backend and application-focused roles where I can work on data-driven logic, system configuration, and scalable web applications. I value clean code, maintainability, and understanding how software supports real business needs.
+
+### Projects
+Most of my repositories are hands-on projects designed to go from concept to working application, with an emphasis on:
+- Data modeling and relationships
+- Business logic and configuration
+- Backend architecture
+- Practical tradeoffs and iteration
+
+I’m always improving my projects and refining my skills through building, not just tutorials.
